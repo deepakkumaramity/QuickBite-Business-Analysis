@@ -1,6 +1,6 @@
 # 🚀 QuickBite – Business Optimization Analysis
+<img width="574" height="389" alt="banner" src="https://github.com/user-attachments/assets/95869dfd-dc8d-4d6f-a75b-e9b62c2f7f61" />
 
-![Banner](assets/banner.png)
 
 ---
 
