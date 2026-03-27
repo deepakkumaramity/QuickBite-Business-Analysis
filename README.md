@@ -1,9 +1,9 @@
-<img width="903" height="605" alt="dashboard1" src="https://github.com/user-attachments/assets/b0070215-d8d1-472f-81ca-433faf7ee1e7" /># 🚀 QuickBite – Business Optimization Analysis
+🚀 QuickBite – Business Optimization Analysis
 
 👨‍💻 **By Deepak Kumar**
 📊 Data Analyst | 📈 Business Analyst | 🚀 Data-Driven Decision Maker
 
-![Banner]<img width="574" height="389" alt="banner" src="https://github.com/user-attachments/assets/ecfbb8e1-010e-4688-a669-f94a74deb4f9" />
+<img width="574" height="389" alt="banner" src="https://github.com/user-attachments/assets/ecfbb8e1-010e-4688-a669-f94a74deb4f9" />
 
 ---
 
