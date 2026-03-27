@@ -57,8 +57,9 @@ QuickBite-Business-Analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](assets/dashboard1.png)
-![Dashboard](assets/dashboard2.png)
+![Dashboard]<img width="903" height="605" alt="dashboard1" src="https://github.com/user-attachments/assets/c7aef703-af81-4ab2-b3ad-27845c23a1af" />
+
+
 
 ---
 
